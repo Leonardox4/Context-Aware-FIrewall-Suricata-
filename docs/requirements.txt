@@ -1,0 +1,17 @@
+# Model2 — ML Firewall training and inference
+# Install from Model2/: pip install -r docs/requirements.txt
+
+# Core (required)
+numpy
+pandas
+scikit-learn
+lightgbm
+joblib
+pyarrow
+
+# Optional: Stage 2 audit plots (histograms + correlation heatmap); pip install matplotlib
+# matplotlib
+
+# Optional: faster JSON parsing in build_ground_truth.py and scripts/Parsing/build_balanced_eve.py
+# Pip install separately if desired: pip install orjson
+orjson
