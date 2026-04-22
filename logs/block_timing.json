@@ -1,0 +1,9 @@
+{
+  "session_start_perf": 418.753586454,
+  "session_start_iso": "2026-04-09T08:33:44.237803Z",
+  "first_block_logged": true,
+  "first_block_elapsed_sec": 26.455791,
+  "first_block_wall_clock_iso": "2026-04-09T08:34:10.693687Z",
+  "first_block_src": "192.168.122.1",
+  "tail_stopped_iso": "2026-04-09T08:35:52.965583Z"
+}

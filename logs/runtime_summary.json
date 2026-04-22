@@ -1,0 +1,13 @@
+{
+  "total_processed": 119,
+  "count_low": 66,
+  "count_medium": 0,
+  "count_high": 53,
+  "avg_risk": 0.4353,
+  "max_risk": 0.940897524356842,
+  "duration_sec": 0.13,
+  "throughput_events_per_sec": 949.61,
+  "first_block_elapsed_sec": null,
+  "first_block_wall_clock_iso": null,
+  "first_block_src": null
+}
