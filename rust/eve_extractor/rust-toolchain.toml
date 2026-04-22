@@ -1,0 +1,5 @@
+# Pin toolchain for this crate so `cargo` / `maturin` use a recent enough compiler.
+# (e.g. indexmap 2.13+ needs rustc >= 1.82; Arrow 53 pulls similar MSRV.)
+# With rustup installed, the first build may download this channel automatically.
+[toolchain]
+channel = "stable"

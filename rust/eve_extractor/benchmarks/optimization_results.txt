@@ -1,0 +1,13 @@
+# optimization_results.txt — append one block per benchmark run
+# Template:
+# ---
+# date: YYYY-MM-DD
+# commit: <hash>
+# Flags: USE_TYPED_PARSING USE_INCREMENTAL_WINDOWS USE_INCREMENTAL_OUTPUT INCREMENTAL_STRICT
+#        USE_RUST_INGESTION USE_BENCHMARK_LOGGING
+# Modes: SAFE (OUTPUT=false) | VALIDATION (OUTPUT+WINDOWS true) | PERFORMANCE (OUTPUT true, WINDOWS false)
+# throughput_mib_s: 
+# cpu_pct: 
+# rss_peak_mb: 
+# parity_max_abs_diff: 0.0
+# row_count: 

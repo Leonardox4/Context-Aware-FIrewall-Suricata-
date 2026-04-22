@@ -1,0 +1,9 @@
+# baseline_metrics.txt — fill after Step 0 baseline run
+# dataset_path:
+# bytes:
+# wall_sec:
+# throughput_mib_s:
+# cpu_pct:
+# rss_peak_mb:
+# feature_rows:
+# notes:
